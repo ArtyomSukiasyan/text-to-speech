@@ -1,7 +1,7 @@
 # Simple text to speech generator
 
 ## How to setup
-- https://github.com/ArtyomSukiasyan/text-to-speech.git
+- git clone https://github.com/ArtyomSukiasyan/text-to-speech.git
 - npm i
 - npm start
 
